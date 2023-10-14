@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amoheric
 - 🏂 Founder & Developer of Amoheric's Blog.
-- 💼 A Data Scientist📡, Entrepreneur & Marketing Specialist…🛒
+- 📡 A Data Scientist, Entrepreneur 💼 & Marketing Specialist…🛒
 - 👀 I’m interested in … Learning new things. Also, 🎮, 💰 & Fun stuff🏂
 - 🌱 I’m currently studying … Data Science🔬
 - 💞️ I’m looking to collaborate on... with any cheerful Cooperate
