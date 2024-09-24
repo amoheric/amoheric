@@ -3,10 +3,14 @@
 **Amoh Adjei Eric**  
 _Data Scientist | AI Engineer | Machine Learning | Busines Research Analyst_
 
-## Toc ##
+## Page contents
 - [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
+- [Professional Background](#Professional_Background)
+- [Interest](#interest)
+- [Current Endeavors](#Current_Endeavors)
+- [AI Related Projects](#AIRelated_Projects)
+- [Connect with Me](#ConnectwithMe)
+
 ---
 
 ![Profile Banner](https://amoheric.com/wp-content/uploads/2023/11/Data-Scientist.png)  <!-- Replace URL_TO_YOUR_IMAGE with the link to your banner image -->
@@ -54,10 +58,7 @@ Welcome. I am Amoh Adjei Eric, an accomplished Data Scientist with a robust back
 
 ---
 
-## AI Related Projects ##
-
-
-
+## AI Related Projects
 
 ![Data Science Process](https://amoheric.com/wp-content/uploads/2023/12/DATA-SCIENCE.gif) <!-- Replace URL_TO_ANOTHER_IMAGE with the link to an image showcasing your work or interests -->
 
