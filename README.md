@@ -1,8 +1,12 @@
 # Welcome to My GitHub Profile
 
 **Amoh Adjei Eric**  
-_Data Scientist | Entrepreneur | Marketing Specialist | Business Analyst_
+_Data Scientist | AI Engineer | Machine Learning | Busines Research Analyst_
 
+## Toc ##
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
 ---
 
 ![Profile Banner](https://amoheric.com/wp-content/uploads/2023/11/Data-Scientist.png)  <!-- Replace URL_TO_YOUR_IMAGE with the link to your banner image -->
@@ -44,7 +48,25 @@ Welcome. I am Amoh Adjei Eric, an accomplished Data Scientist with a robust back
 - **Blogging:**  
   Dedicated to enriching organizational and individual decision-making through insightful blogging.
 
+- 🔭 I’m currently working on machine learning and AI projects.
+- 🌱 I’m currently learning advanced deep learning techniques.
+- 💬 Ask me about anything related to Python, Data Science, and AI.
+
+---
+
+## AI Related Projects ##
+
+
+
+
 ![Data Science Process](https://amoheric.com/wp-content/uploads/2023/12/DATA-SCIENCE.gif) <!-- Replace URL_TO_ANOTHER_IMAGE with the link to an image showcasing your work or interests -->
+
+```python
+# Sample Python code
+print("Hello, GitHub!")
+---
+```
+- [Portfolio](https://github.com/amoheric/Data-Science-Projects) - ML Related Projects.
 
 ---
 
@@ -52,9 +74,20 @@ Welcome. I am Amoh Adjei Eric, an accomplished Data Scientist with a robust back
 
 - **Email:** [Info@amoheric.com](mailto:info@amoheric.com)
 - **Portfolio:** [https://amoheric.com](https://amoheric.com)
+  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoheric/)
+
+---
+
+![YourName's github stats](https://github-readme-stats.vercel.app/api?username=amoheric&show_icons=true)
 
 ---
 
 ![Footer Banner](https://amoheric.com/wp-content/uploads/2024/09/amoheric_footer_profile.png)  <!-- Replace URL_TO_FOOTER_IMAGE with the link to your footer image -->
 
 I am Amoh Adjei Eric, your reliable partner in navigating the complexities of data science. With a unique blend of expertise, passion, and an unwavering quest for knowledge, I am dedicated to employing data to foster informed, data-driven decisions. Let's connect and unlock the potential of data together.
+
+---
+
+Thank you for visiting my GitHub profile!
+
