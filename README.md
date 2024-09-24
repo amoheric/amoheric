@@ -3,6 +3,14 @@
 **Amoh Adjei Eric**  
 _Data Scientist | AI Engineer | Machine Learning | Busines Research Analyst_
 
+---
+
+![Profile Banner](https://amoheric.com/wp-content/uploads/2023/11/Data-Scientist.png)  <!-- Replace URL_TO_YOUR_IMAGE with the link to your banner image -->
+
+## Introduction
+
+Welcome. I am Amoh Adjei Eric, an accomplished Data Scientist with a robust background in computer science, mathematics, and statistics. My professional expertise includes data mining, machine learning, and predictive analytics, positioning me as a distinguished figure in data science. Beyond technical skills, I am an enthusiastic blogger and an ardent pursuer of new knowledge and experiences.
+
 ## Page contents
 - [Introduction](#introduction)
 - [Professional Background](#Professional-Background)
@@ -10,14 +18,6 @@ _Data Scientist | AI Engineer | Machine Learning | Busines Research Analyst_
 - [Current Endeavors](#Current-Endeavors)
 - [AI Related Projects](#AI-Related-Projects)
 - [Connect with Me](#Connect-with-me)
-
----
-
-![Profile Banner](https://amoheric.com/wp-content/uploads/2023/11/Data-Scientist.png)  <!-- Replace URL_TO_YOUR_IMAGE with the link to your banner image -->
-
-## Introduction
-
-Welcome. I am Amoh Adjei Eric, an accomplished Data Scientist with a robust background in computer science, mathematics, and statistics. My professional expertise includes data mining, machine learning, and predictive analytics, positioning me as a distinguished figure in the realm of data science. Beyond technical skills, I am an enthusiastic blogger and an ardent pursuer of new knowledge and experiences.
 
 ---
 
@@ -76,7 +76,7 @@ print("Hello, GitHub!")
 - **Email:** [Info@amoheric.com](mailto:info@amoheric.com)
 - **Portfolio:** [https://amoheric.com](https://amoheric.com)
   
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoheric/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoheric/)
 
 ---
 
