@@ -5,11 +5,11 @@ _Data Scientist | AI Engineer | Machine Learning | Busines Research Analyst_
 
 ## Page contents
 - [Introduction](#introduction)
-- [Professional Background](https://github.com/amoheric/amoheric/edit/main/README.md#ProfessionalBackground)
-- [Interest](https://github.com/amoheric/amoheric/edit/main/README.md#interest)
-- [Current Endeavors](https://github.com/amoheric/amoheric/edit/main/README.md#CurrentEndeavors)
-- [AI Related Projects](https://github.com/amoheric/amoheric/edit/main/README.md#AIRelatedProjects)
-- [Connect with Me](https://github.com/amoheric/amoheric/edit/main/README.md)
+- [Professional Background](#Professional-Background)
+- [Interest](#interest)
+- [Current Endeavors](#Current-Endeavors)
+- [AI Related Projects](#AI-Related-Projects)
+- [Connect with Me](#Connect-with-me)
 
 ---
 
