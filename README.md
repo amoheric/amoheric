@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# Welcome to My GitHub Profile - My Roadmap to AI
 
 **Amoh Adjei Eric**  
 _Data Scientist | AI Engineer | Machine Learning | Busines Research Analyst_
