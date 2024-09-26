@@ -27,7 +27,7 @@ Welcome. I am Amoh Adjei Eric, an accomplished data scientist with a robust comp
   Specializing in Data Science and Marketing Strategies.
   
 - **Role:**  
-  Freelance AI Engineering & Data Scientist / Alchemist.
+  Freelance AI Engineer & Data Scientist / Alchemist.
   
 - **Academic Excellence:**  
   Consistently achieving a 4.0 GPA in Data Science.
