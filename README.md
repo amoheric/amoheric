@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile - My Road to AI Engineering
 
 **Amoh Adjei Eric**  
-_Data Scientist | AI Engineer | Machine Learning | Business Data Research Analyst_
+_Data Scientist | AI Engineer | Machine Learning | Business Research Analyst_
 
 ---
 
