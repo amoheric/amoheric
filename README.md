@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile - My Road to AI Engineering
 
 **Amoh Adjei Eric**  
-_Data Scientist | AI Engineer | Machine Learning | Business Research Analyst_
+_Data Scientist | AI Engineer | Machine Learning | Data Research Analyst_
 
 ---
 
@@ -27,7 +27,7 @@ Welcome. I am Amoh Adjei Eric, an accomplished data scientist with a robust back
   Specializing in Data Science and Marketing Strategies.
   
 - **Role:**  
-  Freelance Data Scientist and Data Alchemist.
+  Freelance AI Engineering & Data Scientist / Alchemist.
   
 - **Academic Excellence:**  
   Consistently achieving a 4.0 GPA in Data Science.
