@@ -78,15 +78,18 @@ print("Hello, GitHub!")
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoheric/)
 
+<a href="https://app.daily.dev/amoheric"><img src="https://api.daily.dev/devcards/v2/TYfZnqD7mD2rd92DW9HJs.png?type=default&r=rh0" width="356" alt="Eric Amoh Adjei's Dev Card"/></a>
+
 ---
 
 ![YourName's github stats](https://github-readme-stats.vercel.app/api?username=amoheric&show_icons=true)
 
 ---
 
-![Footer Banner](https://amoheric.com/wp-content/uploads/2024/09/amoheric_footer_profile.png)  <!-- Replace URL_TO_FOOTER_IMAGE with the link to your footer image -->
+![Footer Banner](https://amoheric.com/wp-content/uploads/2024/11/ERIC-AMOH-ADJEI.png)  <!-- Replace URL_TO_FOOTER_IMAGE with the link to your footer image -->
 
-I am Amoh Adjei Eric, your reliable partner in navigating the complexities of data science. With a unique blend of expertise, passion, and an unwavering quest for knowledge, I am dedicated to employing data to foster informed, data-driven decisions. Let's connect and unlock the potential of data together.
+I am Amoh Adjei Eric, your reliable partner in navigating the complexities of data science. With a unique blend of expertise, passion, and an unwavering quest for knowledge, I am dedicated to employing data to foster informed, data-driven decisions. 
+Let's connect and unlock the potential of data together.
 
 ---
 
