@@ -78,6 +78,8 @@ print("Hello, GitHub!")
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amoheric/)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Amoheric.png" alt="Your Image Badge" />
+
 <a href="https://app.daily.dev/amoheric"><img src="https://api.daily.dev/devcards/v2/TYfZnqD7mD2rd92DW9HJs.png?type=default&r=rh0" width="356" alt="Eric Amoh Adjei's Dev Card"/></a>
 
 ---
