@@ -88,7 +88,7 @@ print("Hello, GitHub!")
 
 ---
 
-![Footer Banner](https://amoheric.com/wp-content/uploads/2024/11/ERIC-AMOH-ADJEI.png)  <!-- Replace URL_TO_FOOTER_IMAGE with the link to your footer image -->
+![Footer Banner](https://amoheric.com/wp-content/uploads/2023/11/Data-Scientist.png))  <!-- Replace URL_TO_FOOTER_IMAGE with the link to your footer image -->
 
 I am Amoh Adjei Eric, your reliable partner in navigating the complexities of data science. With a unique blend of expertise, passion, and an unwavering quest for knowledge, I am dedicated to employing data to foster informed, data-driven decisions. 
 Let's connect and unlock the potential of data together.
