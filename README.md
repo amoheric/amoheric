@@ -5,7 +5,7 @@ _Data Scientist | AI Engineer | Machine Learning | Business Research Analyst_
 
 ---
 
-![Profile Banner](https://amoheric.com/wp-content/uploads/2023/11/Data-Scientist.png)  <!-- Replace URL_TO_YOUR_IMAGE with the link to your banner image -->
+![Profile Banner](https://amoheric.com/wp-content/uploads/2023/11/Data-Scientist.png](https://github.com/amoheric/amoheric/blob/main/Amoheric_banner.jpeg)  <!-- Replace URL_TO_YOUR_IMAGE with the link to your banner image -->
 
 ## Introduction
 
