@@ -79,7 +79,7 @@ An end-to-end, retrospective healthcare analytics portfolio project investigatin
 
 **Original data-science profile banner**
 
-![Original Data Scientist profile banner](https://amoheric.com/wp-content/uploads/2024/11/ERIC-AMOH-ADJEI.png)
+![Original Data Scientist profile banner](https://github.com/amoheric/amoheric/blob/main/Original%20data-science%20process%20animation.gif)
 
 **Original data-science process animation**
 
