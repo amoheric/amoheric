@@ -83,7 +83,7 @@ An end-to-end, retrospective healthcare analytics portfolio project investigatin
 
 **Original data-science process animation**
 
-![Data Science Process](https://amoheric.com/wp-content/uploads/2023/12/DATA-SCIENCE.gif](https://github.com/amoheric/amoheric/blob/main/Original%20data-science%20process%20animation.gif)
+![Data Science Process]([https://amoheric.com/wp-content/uploads/2023/12/DATA-SCIENCE.gif](https://github.com/amoheric/amoheric/blob/main/Original%20data-science%20process%20animation.gif)
 
 </details>
 
